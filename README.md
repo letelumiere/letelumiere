@@ -3,24 +3,14 @@
 **letelumiere/letelumiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
-여기에 썸네일 입력
-
-Tech Skill
-
-java Springboot MySQL MongoDB 
-
-Github 
-
-VSCode AWS
+여기에 썸네일을 입력
 
 I hate portal.
 
--- project --
+-- project & position --
 
 SquadMania 2022.6 -- undefined
 Twitter Reverse 2022.12 -- work in progress
-
-hit 조회수
 
 -- contact --
 letelumiere@gmail.com
@@ -43,4 +33,5 @@ http://notion.so/letelumiere
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+hit 조회수
 -->
