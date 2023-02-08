@@ -3,9 +3,9 @@
 **letelumiere/letelumiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
-여기에 썸네일을 입력
 
-I hate portal.
+'여기에 썸네일을 입력'
+
 
 -- project & position --
 
@@ -41,4 +41,11 @@ experience once as
 
 
 hit 조회수
+
+블로그에 채울 것
+- 코딩테스트 문제풀이
+- 알고리즘
+- 개발노트
+
+
 -->
