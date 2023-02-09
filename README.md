@@ -2,6 +2,7 @@
 :satisfied: Hello, World! 
 -----------
 Hi, I'm Jeong Ha-Gyeong, also you can call me "Stephen". Rookie Backend-Developer from South Korea.
+
 I'm looking for a variety opportunities with programming. 
 if you have any question, ask me korean or English.:smile:
 
