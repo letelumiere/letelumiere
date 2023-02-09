@@ -2,10 +2,7 @@
 
 **letelumiere/letelumiere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--
-
-'여기에 썸네일을 입력'
-
+<div align="center">
 
 -- project & position --
 
@@ -40,12 +37,11 @@ experience once as
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-hit 조회수
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 블로그에 채울 것
 - 코딩테스트 문제풀이
 - 알고리즘
 - 개발노트
 
-
--->
+</div>
