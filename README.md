@@ -10,6 +10,25 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 - 한정된 개발 리소스 안에서 다양한 기술을 학습하고 프로젝트에 적용하였습니다.
 - git 및 워크플로우를 활용하여 효율적인 협업 환경을 적극적으로 구축합니다.
 
+### Project
+## 스쿼드매니아 (iOS/Android) 
+
+- 모바일 게임 피파 온라인의 데이터 정보 제공하는 게임 커뮤니티 앱.
+- DB 설계와 개발, 서버 구축, API 개발 등, 백앤드 개발 및 패키지 배포 작업 참여 
+- 코드 : [squadmania](http://github.com/letelumiere/squadmania)
+- 사용 기술 : JAVA, SpringBoot, Spring Security, MySQL, Redis, AWS EC2, AWS RDS, Docker, Github-Actions, JWT
+
+
+## 파이널판타지 14 아이템베이스(Android)
+
+- MMORPG게임 파이널판타지14의 아이템 정보를 제공하는 게임 정보 앱.
+- 1인 개발. UI/UX 설계, firebase 서버리스 플랫폼을 통해 DB 구축 및 서비스.
+- 코드 : [FFXIV ItemDatabase](http://github.com/letelumiere/ffxiv-fanapp)
+- 사용 기술 : Dart, Flutter, Firebase
+
+
+## :evergreen_tree:Enviroment  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ⚒Tech stack
 
@@ -28,25 +47,7 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-## Project
-
-스쿼드매니아 (iOS/Android) 
-모바일 게임 피파 온라인의 게임 데이터 정보를 제공하는 게임 정보 앱 입니다.
-DB 설계와 개발, 서버 구축, Authenticafion, authorutiyon, 및 API 생성과 배포 등의 백앤드 개발 참여 
-코드 : http://github.com/letelumiere/squadmania
-사용 기술 : JAVA, SpringBoot, Spring Security, MySQL, Redis, AWS EC2, AWS RDS, Docker, Github-Actions, JWT
-
-파이널판타지 14 아이템베이스(Android)
-MMORPG게임 파이널판타지14의 아이템 정보를 제공하는 게임 정보 앱 입니다.
-1인 개발. UI/UX 설계, firebase 서버리스 플랫폼을 통해 DB 구축. 현재 프로덕션 진행 중.
-코드 : http://github.com/letelumiere/ffxiv-fanapp
-사용 기술 : Dart, Flutter, Firebase
-
-
-## :evergreen_tree:Enviroment  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- docker -->
 
 
 <!-- POSTMAN-->
