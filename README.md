@@ -10,7 +10,7 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 - 한정된 개발 리소스 안에서 다양한 기술을 학습하고 프로젝트에 적용하였습니다.
 - git 및 워크플로우를 활용하여 효율적인 협업 환경을 적극적으로 구축합니다.
 
-### Project
+## 🔧Project
 ## 스쿼드매니아 (iOS/Android) 
 
 - 모바일 게임 피파 온라인의 데이터 정보 제공하는 게임 커뮤니티 앱.
@@ -22,7 +22,7 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 ## 파이널판타지 14 아이템베이스(Android)
 
 - MMORPG게임 파이널판타지14의 아이템 정보를 제공하는 게임 정보 앱.
-- 1인 개발. UI/UX 설계, firebase 서버리스 플랫폼을 통해 DB 구축 및 서비스.
+- 1인 개발. UI/UX 설계, firebase 서버리스 플랫폼을 통해 DB 구축 작업 및 서비스.
 - 코드 : [FFXIV ItemDatabase](http://github.com/letelumiere/ffxiv-fanapp)
 - 사용 기술 : Dart, Flutter, Firebase
 
