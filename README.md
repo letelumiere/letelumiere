@@ -14,7 +14,7 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 ## 스쿼드매니아 (iOS/Android) 
 
 - 모바일 게임 피파 온라인의 데이터 정보 제공하는 게임 커뮤니티 앱.
-- DB 설계와 개발, 서버 구축, API 개발 등, 백앤드 개발 및 패키지 배포 작업 참여 
+- DB 설계와 개발, 서버 구축, API 개발 등, 백앤드 개발 및 패키지 배포 작업 참여.
 - 코드 : [squadmania_backend](http://github.com/letelumiere/squadmania_backend)
 - 사용 기술 : JAVA, SpringBoot, Spring Security, MySQL, Redis, AWS EC2, AWS RDS, Docker, Github-Actions, JWT
 
@@ -25,10 +25,6 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 - 1인 개발. UI/UX 설계, firebase 서버리스 플랫폼을 통해 DB 구축 작업 및 서비스.
 - 코드 : [FFXIV ItemDatabase](http://github.com/letelumiere/ffxiv-fanapp)
 - 사용 기술 : Dart, Flutter, Firebase
-
-
-## :evergreen_tree:Enviroment  
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ⚒Tech stack
 
@@ -49,13 +45,19 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!-- docker -->
 
-## github stats
+## :evergreen_tree:Enviroment  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Github stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letelumiere&layout=donut) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letelumiere&layout=compact)
 
 
-##  :calling:contact
-![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=EA4335)
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
+## :calling:contact
+- Email : letelumiere@gmail.com<br>
+- Blog : http://velog.io/letelumiere<br>
+- Github : [letelumiere](https://github.com/letelumiere)<br>
 
+<!-- linkedin -->
 
