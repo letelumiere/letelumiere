@@ -15,7 +15,7 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 
 - 모바일 게임 피파 온라인의 데이터 정보 제공하는 게임 커뮤니티 앱.
 - DB 설계와 개발, 서버 구축, API 개발 등, 백앤드 개발 및 패키지 배포 작업 참여 
-- 코드 : [squadmania](http://github.com/letelumiere/squadmania_backend)
+- 코드 : [squadmania_backend](http://github.com/letelumiere/squadmania_backend)
 - 사용 기술 : JAVA, SpringBoot, Spring Security, MySQL, Redis, AWS EC2, AWS RDS, Docker, Github-Actions, JWT
 
 
