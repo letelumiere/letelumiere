@@ -5,17 +5,17 @@
 
 ## 💁🏻‍♂️about me
 Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔으며, Java와 Spring Framework를 통한 백엔드 개발 경험을 바탕으로 서비스의 전반적인 구조와 성능 최적화에 강점을 보유하고 있습니다. 효율적인 개발과 문제 해결에 높은 관심을 가지고 있으며, 지속적인 기술 학습과 팀 내 협업을 통해 프로젝트를 성공적으로 이끌어가는 것이 목표입니다.
-
 - 운영 중인 서비스의 Restful API 서버와 DB 모델링 설계 및 개발에 참여한 경험이 있습니다.
 - 한정된 개발 리소스 안에서 다양한 기술을 학습하고 프로젝트에 적용하였습니다.
 - git 및 워크플로우를 활용하여 효율적인 협업 환경을 적극적으로 구축합니다.
 
 ## 🔧Project
+
 ## 스쿼드매니아 (iOS/Android) 
 
 - 모바일 게임 피파 온라인의 데이터 정보 제공하는 게임 커뮤니티 앱.
 - DB 설계와 개발, 서버 구축, API 개발 등, 백앤드 개발 및 패키지 배포 작업 참여 
-- 코드 : [squadmania](http://github.com/letelumiere/squadmania)
+- 코드 : [squadmania](http://github.com/letelumiere/squadmania_backend)
 - 사용 기술 : JAVA, SpringBoot, Spring Security, MySQL, Redis, AWS EC2, AWS RDS, Docker, Github-Actions, JWT
 
 
@@ -49,15 +49,13 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!-- docker -->
 
+## github stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letelumiere&layout=donut) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letelumiere&layout=compact)
 
-<!-- POSTMAN-->
+
 ##  :calling:contact
-
-<!-- Twitter -->
-<!-- bluesky -->
-<!-- velog.io -->
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=EA4335)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fletelumiere&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 
 
