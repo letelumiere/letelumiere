@@ -4,11 +4,30 @@
 🎭꾸준히 걷는 개발자, 정하경 입니다.
 
 ## 💁🏻‍♂️about me
-Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔으며, Java와 Spring Framework를 통한 백엔드 개발 경험을 바탕으로 서비스의 전반적인 구조와 성능 최적화에 강점을 보유하고 있습니다. 효율적인 개발과 문제 해결에 높은 관심을 가지고 있으며, 지속적인 기술 학습과 팀 내 협업을 통해 프로젝트를 성공적으로 이끌어가는 것이 목표입니다.
-- 운영 중인 서비스의 Restful API 서버와 DB 모델링 설계 및 개발에 참여한 경험이 있습니다.
-- 한정된 개발 리소스 안에서 다양한 기술을 학습하고 프로젝트에 적용하였습니다.
-- git 및 워크플로우를 활용하여 효율적인 협업 환경을 적극적으로 구축합니다.
+> **“편리함과 즐거움 제공”**
+> 
 
+사람들에게 가치를 제공하는 것이 중요하게 생각합니다. 사용자의 편리함과 즐거움을 염두하여 프로젝트를 진행합니다.
+
+> **“문제 해결과 자기 주도 학습”**
+> 
+
+스스로 해결 방안을 탐구하며 기술과 도구를 적극적으로 활용하여 문제를 해결합니다.
+
+> **“자율성과 끈기”**
+> 
+
+새로운 기술과 환경을 스스로 탐구하며, 문제를 끝까지 해결하려는 자세로 프로젝트를 완성합니다.
+
+## 🚀Vision
+
+사용자에게 가치를 제공하는 것을 최우선으로 삼아, **편리하고 직관적인 서비스**를 개발하는 것을 목표로 합니다. 이를 위해 문제 해결 중심의 태도를 유지하며, 기술적 성장과 협업 역량을 함께 강화하고자 합니다.
+
+Flutter와 Firebase를 활용한 프론트엔드 경험을 바탕으로, **Java와 Spring Framework**를 통해 안정적이고 확장 가능한 백엔드를 설계하고자 합니다. 더 나아가 **사용자 중심의 기술 솔루션**을 제공하며, 팀의 성과를 높이는 데 기여하겠습니다.
+
+- **사용자 가치 창출**: 사람들의 삶을 더 나아지게 하는 기술적 솔루션 제공.
+- **기술과 디자인의 조화**: 높은 성능과 직관적인 UI/UX를 겸비한 서비스 구현.
+- **끝없는 성장**: 새로운 기술 트렌드를 학습하고, 프로젝트에 적극 적용하여 변화에 유연하게 대응.
 ## 🔧Project
 
 ## 스쿼드매니아 (iOS/Android) 
@@ -28,19 +47,13 @@ Flutter와 Firebase를 사용하여 안드로이드 앱 개발에 집중해왔�
 
 ## ⚒Tech stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)
-
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Dart](https://img.shields.io/badge/dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <!--Node.js-->
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <!-- docker -->
